@@ -37,6 +37,26 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
-  }
+    "com.unity.modules.xr": "1.0.0",
+    "exit-games.photon-unity-sdk": "2.18.3",
+    "exit-games.photon-voice-2": "2.16.2"
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.alelievr.node-graph-processor",
+        "com.github.sabresaurus.player-prefs-editor",
+        "com.johannesmp.unityscenereference",
+        "com.openupm",
+        "d4160.constants-and-enums-generator-kit",
+        "d4160.game-framework",
+        "d4160.game-framework-core",
+        "exit-games.photon-unity-sdk",
+        "exit-games.photon-voice-2",
+        "garettbass.unity-extensions.inspect-in-line"
+      ]
+    }
+  ]
 }
